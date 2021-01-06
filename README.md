@@ -3,5 +3,5 @@
 
 <h2> Como usar? <h2>
 
-<p> Vá ao Arquivo cownt.js e coloque uma data final em ingles. <p>
+<h3> Vá ao Arquivo cownt.js e coloque uma data final em ingles. <h3>
 
